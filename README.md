@@ -127,6 +127,8 @@
 * [🌐 GitHub Pages]()
 
 </details>
+
+<details>
 <summary><b>Projeto 2</b></summary>
 
 * [🔗 Repositório do Projeto]()
@@ -170,7 +172,7 @@
 <summary><b>Projeto 7</b></summary>
 
 * [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🌐 GitHub Pages](-)
 
 </details>
 
