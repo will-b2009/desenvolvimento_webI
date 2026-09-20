@@ -123,56 +123,56 @@
 <details>
 <summary><b>Projeto 1</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Apresentacao_Pessoal)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Apresentacao_Pessoal/)
 
 </details>
 
 <details>
 <summary><b>Projeto 2</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Portfolio_Imagens)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Portfolio_Imagens/)
 
 </details>
 
 <details>
 <summary><b>Projeto 3</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Pagina_Receitas)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Pagina_Receitas/)
 
 </details>
 
 <details>
 <summary><b>Projeto 4</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Site_Pessoal)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Site_Pessoal/)
 
 </details>
 
 <details>
 <summary><b>Projeto 5</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Tabela_Notas)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Tabela_Notas/)
 
 </details>
 
 <details>
 <summary><b>Projeto 6</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages]()
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Roteiro_Viagens)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Roteiro_Viagens/)
 
 </details>
 
 <details>
 <summary><b>Projeto 7</b></summary>
 
-* [🔗 Repositório do Projeto]()
-* [🌐 GitHub Pages](-)
+* [🔗 Repositório do Projeto](https://github.com/will-b2009/Cadastro_Usuario)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Cadastro_Usuario/)
 
 </details>
 
