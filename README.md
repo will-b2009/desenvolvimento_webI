@@ -1,5 +1,10 @@
 # Desenvolvimento Web I 🌐
 
+Repositório destinado ao armazenamento de códigos desenvolvidos durante as aulas da disciplina de Desenvolvimento Web I 🖥️
+
+## Autor
+* **José William Bezerra Bonfim Neto**
+
 ---
 
 ## Atividades 📚
