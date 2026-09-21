@@ -182,3 +182,13 @@ Repositório destinado ao armazenamento de códigos desenvolvidos durante as aul
 </details>
 
 ---
+
+## Oficina de Tecnologia 💻
+
+<details>
+<summary><b>Atividade 1</b></summary>
+
+* [🔗 Repositório da Atividade](https://github.com/will-b2009/Oficina_Tecnologia)
+* [🌐 GitHub Pages](https://will-b2009.github.io/Oficina_Tecnologia/)
+
+</details>
